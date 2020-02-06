@@ -3,7 +3,7 @@
 My term paper, 2nd course.   
 Uses OOP with some patterns(Singleton) and inheritance.   
 Already compiled, but for Win 10 only.   
-Uses graphics.h lib.   
+Uses winbgim lib.   
 ## My files:  
 * button.cpp
 * button.hpp
